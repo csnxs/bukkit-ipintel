@@ -1,0 +1,4 @@
+name: "TSPGIPIntel"
+version: 1.0
+author: "The Sentinel's Playground"
+main: net.allfearthesentinel.spigot.ipintel.Plugin
